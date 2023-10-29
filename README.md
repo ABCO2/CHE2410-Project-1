@@ -10,4 +10,14 @@ The data utilized in this study was extracted from the [COVID-19 Open Data Repos
 
 
 ## Result and Discussion
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/6ac23608-68f7-483a-be20-bfab458a54bd)
+
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/4fb1ee3c-b7b9-4b64-80b1-350d45f6a1c1)
+
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/cf7bfb1c-140d-4bf5-a834-b11c37ca9123)
+
+### The table below shows the countries' key:
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/9387524d-7a07-4a42-8b9d-b430a5efc50d)
+
+
 ## Conclusion
