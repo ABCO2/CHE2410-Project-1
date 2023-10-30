@@ -22,3 +22,5 @@ The data utilized in this study was extracted from the [COVID-19 Open Data Repos
 
 
 ## Conclusion
+
+## Recommendation
