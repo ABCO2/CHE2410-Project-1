@@ -2,7 +2,7 @@
 
 
 ## Introduction and Background
-The COVID-19 pandemic has caused widespread devastation across the globe, leading to significant loss of life and economic damage. While the virus affects people of all ages, it has been observed that people with preexisting health conditions such as diabetes are at a higher risk of developing severe symptoms and complications. Additionally, the Human Development Index (HDI) of a country plays a major role in determining its ability to prevent, diagnose, and treat COVID-19 cases. Therefore, understanding the relationship between diabetes percentage, HDI, and COVID-19 death cases is crucial in devising effective strategies to combat the pandemic.
+The COVID-19 pandemic has caused widespread devastation across the globe, leading to significant loss of life and economic damage. While the virus affects people of all ages, it has been observed that people with preexisting health conditions (diabetes for example) are at a higher risk of developing severe symptoms and complications. Additionally, the Human Development Index (HDI) of a country plays a major role in determining its ability to prevent, diagnose, and treat COVID-19 cases. Therefore, understanding the relationship between diabetes percentage, HDI, and COVID-19 death cases is crucial in devising effective strategies to combat the pandemic. The primary aim of this study is to conduct a comparative analysis of the correlation between diabetes prevalence and HDI among COVID-19 fatalities.
 
 To begin the data analysis, various sources were consulted and data was collected for each country's diabetes percentage, human development index (HDI), and death rate. The data was then compiled into an Excel sheet. To make it more manageable, the diabetes percentage and HDI data were grouped into separate columns based on their respective means; values higher or equal to the mean were assigned a value of 1 whereas lower values were assigned a value of 0. This process was repeated for both the diabetes percentage and HDI variables. 
 
@@ -23,6 +23,17 @@ Figure 1 shows the percentage of persons with diabetes in each country. Figure 2
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/9387524d-7a07-4a42-8b9d-b430a5efc50d)
 
 ## Result and Discussion
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/1417d060-613d-471f-bfe1-ead1a566dc73)
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/d0fc617f-6592-4fa3-8146-d1de569c93f5)
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/ddc921ed-3833-4da5-8163-88c3524cd3d9)
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/5dc824cd-7acb-42aa-9276-5760f9f357ef)
+
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/56a631c5-4acb-4d59-b908-a81891265201)
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/19f06d38-4e4f-47a9-8bf4-d10dd4f63bb6)
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/77da9783-b2e0-4e21-9179-e0b6cb656fcd)
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/a4d0ba5c-83eb-4eaa-9cce-8ef86a78c738)
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/59879e04-2cc1-4b74-8ddb-90a7d054ada1)
+![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/0ddae61e-4d0e-4df4-ba1c-2bb38cd5e367)
 
 
 ## Conclusion
