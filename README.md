@@ -20,7 +20,7 @@ The data utilized in this study was extracted from the [COVID-19 Open Data Repos
 ### The table below shows the countries' key:
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/9387524d-7a07-4a42-8b9d-b430a5efc50d)
 
-
+Figure 1 shows the percentage of persons with diabetes in each country. Figure 2 shows the Human Development Index in each country. Figure 3 shows the death rate im each country. The table above shows the countries' key.
 ## Result and Discussion
 
 
