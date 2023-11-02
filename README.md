@@ -56,6 +56,12 @@ The model shows a significant relationship between the HDI and the rate of death
 
 The model is still telling us that there is a significant relationship between HDI and the rate of death, but not between the diabetes percentage and the rate of death. On the other hand, the interaction term shows that there is no significant relationship, where the P-value is 0.075. For further analysis, we can conduct the intraction plot.
 
+Death of rate = 7.4e−05𝐷𝑖+0.0005𝐻𝐷𝐼 − 0.0003𝐷𝑖∗𝐻𝐷𝐼+6.502e−05
+
+Di is the diabetes percentage
+
+HDI is the Human Development Index
+
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/0ddae61e-4d0e-4df4-ba1c-2bb38cd5e367)
 
 Since the interaction plot shows crossing, it means that there is an interaction effect between the variables. In other words, the effect of diabetes percentage (grouped) on death rate depends on the level of HDI (grouped), and vice versa.
