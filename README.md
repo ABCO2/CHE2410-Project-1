@@ -24,16 +24,41 @@ Figure 1 shows the percentage of persons with diabetes in each country. Figure 2
 
 ## Result and Discussion
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/1417d060-613d-471f-bfe1-ead1a566dc73)
+
+As we can see the mean of persons with diabetes in population globally is 7.53%. 
+
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/d0fc617f-6592-4fa3-8146-d1de569c93f5)
+
+As we can see the mean of HDI is 0.73. 
+
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/ddc921ed-3833-4da5-8163-88c3524cd3d9)
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/5dc824cd-7acb-42aa-9276-5760f9f357ef)
 
+Figures 6 and 7 show the scatter plot of percentage of diabetes and HDI versus the death rate. 
+
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/56a631c5-4acb-4d59-b908-a81891265201)
+
+After the data of the percentage of persons with diabetes get grouped, we plotted them and had a linear regression fit. Our intercept is  0.0003384407249999999 and our slope is -5.172663775510093e-06
+
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/19f06d38-4e4f-47a9-8bf4-d10dd4f63bb6)
+
+After the data of the Human Development Index get grouped, we plotted them and had a linear regression fit. Our intercept is  8.314710204081637e-05 and our slope is 0.0004084927104591837
+
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/77da9783-b2e0-4e21-9179-e0b6cb656fcd)
+
+The model does not show a significant relationship between the diabetes percentage and the rate of death. This is indicated by the non-significant p-value of 0.944 for the regression coefficient of diabetes percentage. The R-squared value of 0.000. Therefore, it can be concluded that there is no significant linear relationship between the variables in the model.
+
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/a4d0ba5c-83eb-4eaa-9cce-8ef86a78c738)
+
+The model shows a significant relationship between the HDI and the rate of death. This is indicated by the significant p-value of 0.000 for the regression coefficient of HDI, with a positive coefficient of 0.0004. The relatively high R-squared value of 0.241 and the positive adjusted R-squared value of 0.235 suggest that the model explains a significant proportion of the variance in the data.
+
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/59879e04-2cc1-4b74-8ddb-90a7d054ada1)
+
+The model is still telling us that there is a significant relationship between HDI and the rate of death, but not between the diabetes percentage and the rate of death. On the other hand, the interaction term shows that there is no significant relationship, where the P-value is 0.075. For further analysis, we can conduct the intraction plot.
+
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/0ddae61e-4d0e-4df4-ba1c-2bb38cd5e367)
+
+Since the interaction plot shows crossing, it means that there is an interaction effect between the variables. In other words, the effect of diabetes percentage (grouped) on death rate depends on the level of HDI (grouped), and vice versa.
 
 
 ## Conclusion
