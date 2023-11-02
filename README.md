@@ -11,6 +11,8 @@ In this study, we conduct a comprehensive analysis by applying OLS regression me
 Human Development Index (HDI) is a composite statistic that was developed by the United Nations Development Programme (UNDP) to measure and rank countries based on their social and economic progress. The HDI takes into account three dimensions of human development: living standards, education, and health. Living standards are measured by a country's Gross National Income (GNI), which is adjusted for inflation and divided by the population. Education is measured by the average years of schooling of adults aged 25 years and over and the expected years of schooling of children. It provides insights into the quality of life of people in different countries [[1]](https://hdr.undp.org/content/human-development-report-2020).
 The data utilized in this study was extracted from the [COVID-19 Open Data Repository](https://health.google.com/covid-19/open-data/raw-data) and the [WHO COVID-19 Dashboard](https://data.humdata.org/dataset/coronavirus-covid-19-cases-and-deaths).
 
+Figure 1 shows the percentage of persons with diabetes in each country. Figure 2 shows the Human Development Index in each country. Figure 3 shows the COVID-19 death rate im each country in 2020. The table above shows the countries' key.
+
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/696a255c-f7bd-4718-b795-71c04b865852)
 
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/843b0bad-2407-42be-9778-22504cd8aecc)
@@ -20,7 +22,6 @@ The data utilized in this study was extracted from the [COVID-19 Open Data Repos
 ### The table below shows the countries' key:
 ![image](https://github.com/ABCO2/CHE2410-Project-1/assets/144171865/9387524d-7a07-4a42-8b9d-b430a5efc50d)
 
-Figure 1 shows the percentage of persons with diabetes in each country. Figure 2 shows the Human Development Index in each country. Figure 3 shows the death rate im each country. The table above shows the countries' key.
 ## Result and Discussion
 
 
